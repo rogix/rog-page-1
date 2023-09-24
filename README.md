@@ -1,3 +1,6 @@
+![2023-09-24 19 22 38 localhost ba71be20292d](https://github.com/rogix/rog-page-1/assets/12768403/be56136e-5e1d-406d-a8a5-bd09866fa927)
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
@@ -36,3 +39,4 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
